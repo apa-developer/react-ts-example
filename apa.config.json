@@ -1,0 +1,7 @@
+{
+  "componentDir": "src/components",
+  "framework": "react-ts",
+  "utilsDir": "src/utils",
+  "componentsAlias": "@/components",
+  "utilsAlias": "@/utils"
+}
